@@ -1,1 +1,13 @@
-Bangkit Coursera
+# Bangkit Coursera
+## Sertifikat
+- [Alin for ML](https://coursera.org/share/7c2f44f9447ea33d54c9a504e75355c5)
+- [Advanced Learning Algorithms](https://coursera.org/share/f80dd2c2d2f28111e0f6d24e71746efd)
+- [C1_Browser-based-TF-JS](https://coursera.org/share/9bf58490433ac9fd9f2de71f96425717)
+- [C2_Device-based-TF-lite](https://coursera.org/share/be2232377a4c3701bbe0508586ff47aa)
+- [C3_Data-pipelines](https://coursera.org/share/2950651c885f8541a88b756b8321ff20)
+- [Convolutional Neural Networks in TensorFlow](https://coursera.org/share/b1ec7d90dbad58d60a95783c13142224)
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/9251fe6a053adfdba607009f05f03d66)
+- [Natural Language Processing in TensorFlow](https://coursera.org/share/c21898fd7b85a3806ab91996edf3347a)
+- [Sequences, Time Series and Prediction](https://coursera.org/share/d280ed85820ffb8393f63c537500f453)
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/c21d61b7f91649cce0f0b47e5455d7b2)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/649ac7828d08b6f281aab9a93eeca802)
