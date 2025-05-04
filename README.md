@@ -6,6 +6,7 @@ Welcome to my collection of certificates earned through the Bangkit 2024 program
 - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/c21d61b7f91649cce0f0b47e5455d7b2)
 - [Advanced Learning Algorithms](https://coursera.org/share/f80dd2c2d2f28111e0f6d24e71746efd)
 - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/649ac7828d08b6f281aab9a93eeca802)
+- [Linear Algebra for Machine Learning](https://coursera.org/share/7c2f44f9447ea33d54c9a504e75355c5)
 
 ## 🤖 TensorFlow Specialization
 - [Introduction to TensorFlow for AI, ML, and Deep Learning](https://coursera.org/share/9251fe6a053adfdba607009f05f03d66)
@@ -23,7 +24,7 @@ Welcome to my collection of certificates earned through the Bangkit 2024 program
 - [Data Pipelines with TensorFlow](https://coursera.org/share/2950651c885f8541a88b756b8321ff20)
 
 ## 🏆 Achievement
-Completed the entire [Machine Learning Specialization](https://coursera.org/share/7c2f44f9447ea33d54c9a504e75355c5) with distinction.
+[Final Transcript](https://drive.google.com/file/d/1rKMmsMeWkRddKTDCBrHsqYHYjVh6qHir/view).
 
 ## 🌟 Skills Gained
 - Machine Learning fundamentals
